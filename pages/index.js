@@ -10,13 +10,11 @@ export default function Home() {
 
       <main className="flex flex-col items-center justify-center flex-1 w-full px-20 text-center">
         <h1 className="text-6xl font-bold">
-          Welcome to  Main page 
-      
-        
+          Welcome to  Car  Main page 
+              
         </h1>
 
  
-
         <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full">
         
             <h3 className="text-2xl font-bold">Car Data &rarr;</h3>
