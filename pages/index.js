@@ -28,6 +28,14 @@ export default function Home() {
             </div>
          
 
+            <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full">
+        
+
+      <img src="https://car-images.bauersecure.com/pagefiles/99391/1040x0/artura_021.jpg?scale=down" alt="car" width="500" height="500"></img>
+      
+        </div>
+
+
           
       </main>
 
